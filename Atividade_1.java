@@ -1,5 +1,5 @@
 package Atividades;i
-mport java.util.Scanner; 
+import java.util.Scanner; 
 public class Atividade_1{
 
 	public static void main(String[] args ){
